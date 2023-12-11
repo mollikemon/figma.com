@@ -1,0 +1,34 @@
+.flix{
+
+    border: 1px solid #FAFAFA ;
+   background-color: #FAFAFA;
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+.Lest{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.img{
+     margin-left: 80px;
+}
+
+.img-src{
+    height: 400px;
+}
+
+.tex{
+    font-size: 40px;
+}
+.button{
+    padding: 15px;
+    border-radius: 9px;
+    background-color:#ff5959;
+    border-color:#ff5959;
+    color: aliceblue;
+}
+.play{
+    margin-left: 10px;
+}
