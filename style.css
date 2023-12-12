@@ -23,8 +23,11 @@
     font-size: 40px;
 }
 .button{
-    padding: 15px;
-    border-radius: 9px;
+    padding-top:8px ;
+    padding-bottom:8px ;
+    padding-right:15px ;
+    padding-left: 15px;
+   border-radius: 4px;
     background-color:#ff5959;
     border-color:#ff5959;
     color: aliceblue;
@@ -32,3 +35,125 @@
 .play{
     margin-left: 10px;
 }
+.Today{
+    text-align: center;
+    margin-top: 50px;
+}
+.div101{
+    border: 1px solid rgb(251, 249, 249);
+    background-color:#FAFAFA;
+    text-align: center;
+    padding: 40px;
+    width:50px;
+    border-radius: 8px;
+}
+.div102{
+    border: 1px solid rgb(251, 5, 5);
+    background-color:#FFEEEE;
+    text-align: center;
+    padding: 40px;
+    width:50px;
+    border-radius: 8px;
+}
+.div100{
+    margin-top: 30px;
+    display: flex;
+    margin-left: 250px;
+    gap: 20px;
+}
+.div103{
+    margin-top: 50px;
+  text-align: center;
+}
+.wid{
+    margin-bottom: 25px;
+    width: 700px;
+}
+.xx22{
+    background-color: #EDF5F6;
+    border-radius: 12px;
+    width: 260px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-right: 4px;
+    padding-left: 5px;
+}
+.xx2{
+    background-color: #FFEEEE;
+    border-radius: 12px;
+    width: 260px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-right: 4px;
+    padding-left: 5px;
+}
+.xx{
+    background-color: #FFF4D6;
+    border-radius: 12px;
+    width: 260px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-right: 4px;
+    padding-left: 5px;
+}
+.div133{
+    display: flex;
+    margin-left: 200px;
+    gap: 20px;
+}
+.hhtt{
+    margin-top: 80px;
+    display: flex;
+    margin-left: 280px;
+    gap: 50px;
+}
+.htt1{
+    border-radius: 12px;
+    height:270px;
+    width:280px;
+}
+.button1{
+    padding-top:8px ;
+    padding-bottom:8px ;
+    padding-right:15px ;
+    padding-left: 15px;
+   border-radius: 4px;
+    background-color:#ff5959;
+    border-color:#ff5959;
+    color: aliceblue; 
+}
+.qq11{
+    margin-top: 20px;
+    background-color: #FFF4D6 ;
+    margin-left: 250px;
+  display: flex;
+align-items: center;
+border: 1px solid  #FFF4D6 ;
+height:150px; 
+width: 700px;
+}
+.button3{
+    
+    height: 30px;
+   margin-left: 200px;
+}
+.v2{
+
+    text-align: center;
+    margin-top: 20px;
+    background-color:black ;
+    color: #EDF5F6;
+    border: 1px solid  #0a0a0a ;
+    height:150px; 
+}
+.vv{
+    margin-top: 35px;
+    color: #ea1212;
+}
+
+
+
+
+
+
+  
